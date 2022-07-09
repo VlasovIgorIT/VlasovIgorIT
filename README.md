@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi 👋
+* 🔭 I am a student at the Moscow Institute of Geodesy and Cartography. 
+* :computer: Have been programming in the 1C language for two years now.
+* :books: Studying the following technologies: HTML, CSS, JS
 <!--
 **VlasovIgorIT/VlasovIgorIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
